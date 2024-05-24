@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "serieso-development"
+  },
+  "targets": {
+    "serieso-development": {
+      "hosting": {
+        "console": [
+          "serieso-console"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
